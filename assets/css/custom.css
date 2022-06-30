@@ -10,6 +10,7 @@
 .d-none-pc{
 	display: none !important;
 }
+
 #hero .container-fluid{
 	margin: 0rem 4rem;
 	padding-top: 10rem;
@@ -215,4 +216,9 @@
 	color: #E63946;
 	border: 2px solid #E63946;
 	/*background-color: #E63946 !important;*/
+}
+
+
+.btn-merah{
+	background-color: #E63946;
 }
